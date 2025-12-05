@@ -8,4 +8,4 @@ soundfile
 scikit-learn
 scipy
 plotly
-xgboost==1.7.6
+xgboost
